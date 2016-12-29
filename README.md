@@ -16,14 +16,14 @@ Learn everything you need to about the subject of this `Tutorialspoint` project.
 ## Topics
 ```
 MongoDB Tutorial
-[ ] Home
-[ ] Overview
-[ ] Advantages
-[ ] Environment
-[ ] Data Modeling
-[ ] Create Database
-[ ] Drop Database
-[ ] Create Collection
+[x] Home
+[x] Overview
+[x] Advantages
+[x] Environment
+[x] Data Modeling
+[x] Create Database
+[x] Drop Database
+[x] Create Collection
 [ ] Drop Collection
 [ ] Data Types
 [ ] Insert Document

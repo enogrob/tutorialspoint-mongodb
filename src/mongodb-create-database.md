@@ -7,31 +7,32 @@ MongoDB use DATABASE_NAME is used to create database. The command will create a 
 
 **Syntax**
 Basic syntax of use DATABASE statement is as follows −
-```javascript
+
+```
 use DATABASE_NAME
 ```
 
 **Example**
 If you want to create a database with name <mydb>, then use DATABASE statement would be as follows −
-```javascript
+```
 use mydb
 switched to db mydb
 ```
 
 To check your currently selected database, use the command db
-```javascript
+```
 db
 
 mydb
 ```
 
 If you want to check your databases list, use the command show dbs.
-```javascript
+```
 show dbs
 
 local     0.78125GB
 test      0.23012GB
-````
+```
 Your created database (mydb) is not present in list. To display database, you need to insert at least one document into it.
 ```javascript
 db.movie.insert({"name":"tutorials point"})
