@@ -24,7 +24,7 @@ MongoDB Tutorial
 [x] Create Database
 [x] Drop Database
 [x] Create Collection
-[ ] Drop Collection
+[x] Drop Collection
 [ ] Data Types
 [ ] Insert Document
 [ ] Query Document
