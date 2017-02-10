@@ -27,7 +27,7 @@ MongoDB Tutorial
 [x] Drop Collection
 [x] Data Types
 [x] Insert Document
-[ ] Query Document
+[x] Query Document
 [ ] Update Document
 [ ] Delete Document
 [ ] Projection
